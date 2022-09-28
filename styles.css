@@ -26,11 +26,12 @@ h1 {
   height: 350px;
 }
 .image1 {
-  height: 50%;
+  height: 55%;
   width: 100%;
+  background-color: rgb(255, 255, 255);
 }
 .product-details1 {
-  height: 50%;
+  height: 45%;
   background-color: rgb(255, 255, 255);
 }
 span {
